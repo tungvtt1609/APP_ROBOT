@@ -1,0 +1,8 @@
+prefix=/home/tungvo/Desktop/APP_ROBOT/build/devel
+
+Name: junbot_gui
+Description: Description of junbot_gui
+Version: 0.1.0
+Cflags: -I/home/tungvo/Desktop/APP_ROBOT/include
+Libs: -L${prefix}/lib 
+Requires: tf roscpp std_msgs sensor_msgs cv_bridge image_transport

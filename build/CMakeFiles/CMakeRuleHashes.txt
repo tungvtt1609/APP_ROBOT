@@ -1,0 +1,6 @@
+# Hashes of file build rules.
+d5160e09cfbffa2e3d2556e4a6c3624b CMakeFiles/clean_test_results
+a18f3cc5944397e4d643271beda079c7 CMakeFiles/junbot_gui_autogen
+858f1fd7fc6d24c333e14a8d54f52203 qrc_resources.cpp
+71034bcbe993d0fd499933e5b98bc079 ui_loginwidget.h
+3449215ccf506f364e2aab660b086b81 ui_mainwindow.h
